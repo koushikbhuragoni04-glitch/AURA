@@ -1,4 +1,4 @@
-# 🧠 Incident Memory Agent (Hindsight Hackathon)
+# 🧠 Incident Memory Agent (Hindsight)
 
 An on-call AI agent for SRE teams that **remembers every production incident** — symptoms, root cause,
 the fix that worked, and the fixes that *wasted time* — and uses that memory to triage new alerts.
